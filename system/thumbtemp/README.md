@@ -7,7 +7,7 @@ Download this folder and upload it into your wiki which is powered by iSC Inc..
 ## 2. Step
 Add
 
-    require_once( "$IP/require/thumbtemp/thumbtemp.php" ); // Display Thumbnail
+    require_once( "$IP/require/system/thumbtemp/thumbtemp.php" ); // Display Thumbnail
 
 to your *LocalSettings.php* in the root directory.
 
