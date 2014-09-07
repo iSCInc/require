@@ -1,0 +1,1 @@
+unset( $wgFooterIcons['poweredby'] );
